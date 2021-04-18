@@ -76,7 +76,7 @@ h2 {
 
 /* Header */
 header {
-  background: url("./img/header_bg.png") no-repeat top center/cover;
+  background: url("../img/header_bg.png") no-repeat top center/cover;
   min-height: 800px;
   text-align: center;
   display: flex;
@@ -114,7 +114,7 @@ header h5 {
 
 /* About Us */
 .about {
-  background: url("./img/section1_bg.png") no-repeat top center/cover;
+  background: url("../img/section1_bg.png") no-repeat top center/cover;
 }
 .about h2 {
   text-align: center;
@@ -152,19 +152,19 @@ header h5 {
 /* Articles */
 .articles {
   padding: 0 40px 100px 40px;
-  background: url("./img/section2_bg.png") no-repeat center center;
+  background: url("../img/section2_bg.png") no-repeat center center;
   background-size: cover;
 }
 .article1 {
-  background: url("./img/reports.jpg") center center/cover;
+  background: url("../img/reports.jpg") center center/cover;
   height: 80vw;
 }
 .article2 {
-  background: url("./img/articles.jpg") center center/cover;
+  background: url("../img/articles.jpg") center center/cover;
   height: 80vw;
 }
 .article3 {
-  background: url("./img/blog.jpg") center center/cover;
+  background: url("../img/blog.jpg") center center/cover;
   height: 80vw;
 }
 .articles h3 {
@@ -184,7 +184,7 @@ header h5 {
 
 /* Team */
 .team {
-  background: url("./img/section3_bg.png") no-repeat top center/cover;
+  background: url("../img/section3_bg.png") no-repeat top center/cover;
   padding: 0 40px 20px 40px;
 }
 .team-imgs {
@@ -192,13 +192,13 @@ header h5 {
   top: -100px;
 }
 .member-img1 {
-  background: url("./img/leader1.jpg") no-repeat center center/cover;
+  background: url("../img/leader1.jpg") no-repeat center center/cover;
 }
 .member-img2 {
-  background: url("./img/leader2.jpg") no-repeat center center/cover;
+  background: url("../img/leader2.jpg") no-repeat center center/cover;
 }
 .member-img3 {
-  background: url("./img/leader3.jpg") no-repeat center center/cover;
+  background: url("../img/leader3.jpg") no-repeat center center/cover;
 }
 .member-img1,
 .member-img2,
@@ -220,16 +220,16 @@ header h5 {
 
 /* Gallery */
 .gallery-img1 {
-  background: url("./img/gallery1.jpg") no-repeat center center/cover;
+  background: url("../img/gallery1.jpg") no-repeat center center/cover;
 }
 .gallery-img2 {
-  background: url("./img/gallery2.jpg") no-repeat center center/cover;
+  background: url("../img/gallery2.jpg") no-repeat center center/cover;
 }
 .gallery-img3 {
-  background: url("./img/gallery3.jpg") no-repeat center center/cover;
+  background: url("../img/gallery3.jpg") no-repeat center center/cover;
 }
 .gallery-img4 {
-  background: url("./img/gallery4.jpg") no-repeat center center/cover;
+  background: url("../img/gallery4.jpg") no-repeat center center/cover;
 }
 .gallery-img1,
 .gallery-img2,
@@ -246,7 +246,7 @@ header h5 {
 
 /* Contact */
 .contact {
-  background: url("./img/footer_bg.png") no-repeat top center/cover;
+  background: url("../img/footer_bg.png") no-repeat top center/cover;
   height: 100%;
   min-height: 750px;
   position: relative;
